@@ -12,7 +12,6 @@
 		this.data = data;
 		this.height = data.length;
 		this.width = data[0].length;}
-        }
 
        ### for winnter break goal i wanna do better at the things i like for example coding with impact and improviing my skills in other activities i enjoy doing like creating stuff in unity and blender  like making 3d models (will put an image of what im talking about for unity when i get home)
 
