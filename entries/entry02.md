@@ -2,8 +2,11 @@
 ##### 12/12/22
 
 ### as i have been tinkering with impact i noticed i can change certain aspects and make the loading screen say different things   like giving hints in "said game" like making
+
 ### {<div class="entityDefinition"><span class="key">x</span>:<span class="value">188</span></div>} into
- ### {<div class="entityDefinition"><span class="key">x</span>:<span class="value">49</span></div>} to make it smaller in size for fitting better
+
+
+### {<div class="entityDefinition"><span class="key">x</span>:<span class="value">49</span></div>} to make it smaller in size for fitting better
 
 
 ### i can also change diferent data sets for the map of the game by using code like this {
